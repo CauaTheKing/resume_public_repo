@@ -1,0 +1,14 @@
+/* .anglo_flag_image img {
+    
+} */
+
+.anglo_flag_image /*div-tag*/ {
+    /* background-color: darkblue; */
+
+    padding-left: 1pt;
+    padding-right: 0pt;
+
+    width: 22pt;
+    height: 13pt;
+
+}
